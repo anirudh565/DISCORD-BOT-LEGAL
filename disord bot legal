@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Terms of Service - Your Bot Name</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Effective Date: July 2, 2025</p>
+
+  <p>By using this Discord bot ("Bot"), you agree to the following terms:</p>
+
+  <ul>
+    <li>You must follow all Discord Terms of Service and Community Guidelines.</li>
+    <li>You may not use the bot for illegal, harmful, or abusive activities.</li>
+    <li>We may update or disable features at any time without notice.</li>
+    <li>We reserve the right to ban users or remove the bot from servers for any reason.</li>
+  </ul>
+
+  <p>If you do not agree to these terms, please do not use the bot.</p>
+
+  <p>For questions or concerns, contact the bot developer.</p>
+</body>
+</html>
